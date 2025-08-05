@@ -1,0 +1,22 @@
+{
+  "collectionName": "components_company_info_company_infos",
+  "info": {
+    "displayName": "CompanyInfo"
+  },
+  "options": {},
+  "attributes": {
+    "company_size": {
+      "type": "string"
+    },
+    "founded_at": {
+      "type": "date"
+    },
+    "industry": {
+      "type": "string"
+    },
+    "about": {
+      "type": "blocks"
+    }
+  },
+  "config": {}
+}

@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_tech_card_tech_cards",
+  "info": {
+    "displayName": "techCard"
+  },
+  "options": {},
+  "attributes": {
+    "labelStack": {
+      "type": "string"
+    }
+  },
+  "config": {}
+}

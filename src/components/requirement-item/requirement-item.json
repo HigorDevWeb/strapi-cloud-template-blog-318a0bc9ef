@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_requirement_item_requirement_items",
+  "info": {
+    "displayName": "RequirementItem"
+  },
+  "options": {},
+  "attributes": {
+    "text": {
+      "type": "string"
+    }
+  },
+  "config": {}
+}

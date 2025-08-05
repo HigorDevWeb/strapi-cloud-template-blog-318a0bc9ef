@@ -1,0 +1,25 @@
+{
+  "collectionName": "components_contact_info_item_contact_info_items",
+  "info": {
+    "displayName": "ContactForm"
+  },
+  "options": {},
+  "attributes": {
+    "namePlaceholder": {
+      "type": "string"
+    },
+    "emailPlaceholder": {
+      "type": "string"
+    },
+    "empresaPlaceholder": {
+      "type": "string"
+    },
+    "mensagePlaceholder": {
+      "type": "string"
+    },
+    "buttonSend": {
+      "type": "string"
+    }
+  },
+  "config": {}
+}

@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_job_filter_button_job_filter_buttons",
+  "info": {
+    "displayName": "JobFilterButton"
+  },
+  "options": {},
+  "attributes": {
+    "label": {
+      "type": "string"
+    }
+  },
+  "config": {}
+}

@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_contact_form_field_contact_form_fields",
+  "info": {
+    "displayName": "contactInfo"
+  },
+  "options": {},
+  "attributes": {
+    "Label": {
+      "type": "string"
+    },
+    "input": {
+      "type": "string"
+    }
+  },
+  "config": {}
+}

@@ -1,0 +1,37 @@
+{
+  "collectionName": "components_job_front_card_info_job_front_card_infos",
+  "info": {
+    "displayName": "jobFrontCardInfo"
+  },
+  "options": {},
+  "attributes": {
+    "jobTitle": {
+      "type": "string"
+    },
+    "labelType": {
+      "type": "string"
+    },
+    "companyLabel": {
+      "type": "string"
+    },
+    "jobType": {
+      "type": "string"
+    },
+    "jobSalary": {
+      "type": "string"
+    },
+    "jobHours": {
+      "type": "string"
+    },
+    "jobDescription": {
+      "type": "text"
+    },
+    "seeMoreButton": {
+      "type": "string"
+    },
+    "labelStack": {
+      "type": "string"
+    }
+  },
+  "config": {}
+}

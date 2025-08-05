@@ -1,0 +1,22 @@
+{
+  "collectionName": "components_header_link_menu_links",
+  "info": {
+    "displayName": "menuLinks"
+  },
+  "options": {},
+  "attributes": {
+    "label": {
+      "type": "string"
+    },
+    "href": {
+      "type": "enumeration",
+      "enum": [
+        "#home",
+        "#jobs",
+        "#tech",
+        "#contact"
+      ]
+    }
+  },
+  "config": {}
+}

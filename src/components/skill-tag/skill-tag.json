@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_skill_tag_skill_tags",
+  "info": {
+    "displayName": "SkillTag"
+  },
+  "options": {},
+  "attributes": {
+    "label": {
+      "type": "string"
+    }
+  },
+  "config": {}
+}

@@ -1,0 +1,40 @@
+{
+  "collectionName": "components_job_inside_info_job_inside_infos",
+  "info": {
+    "displayName": "jobInsideInfo"
+  },
+  "options": {},
+  "attributes": {
+    "JobTitle": {
+      "type": "string"
+    },
+    "companyTitle": {
+      "type": "string"
+    },
+    "jobInfo": {
+      "type": "string"
+    },
+    "jobStack": {
+      "type": "string"
+    },
+    "LevelLabel": {
+      "type": "string"
+    },
+    "applyButton": {
+      "type": "string"
+    },
+    "JobDescription": {
+      "type": "text"
+    },
+    "AboutCompany": {
+      "type": "text"
+    },
+    "jobRequirements": {
+      "type": "text"
+    },
+    "jobbenefits": {
+      "type": "text"
+    }
+  },
+  "config": {}
+}

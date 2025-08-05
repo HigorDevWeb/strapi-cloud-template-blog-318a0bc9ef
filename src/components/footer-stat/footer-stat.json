@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_footer_stat_footer_stats",
+  "info": {
+    "displayName": "footerStat"
+  },
+  "options": {},
+  "attributes": {
+    "value": {
+      "type": "string"
+    },
+    "label": {
+      "type": "string"
+    }
+  },
+  "config": {}
+}

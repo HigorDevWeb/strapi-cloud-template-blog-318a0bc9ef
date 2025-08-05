@@ -1,0 +1,25 @@
+{
+  "collectionName": "components_hero_button_hero_buttons",
+  "info": {
+    "displayName": "heroButton"
+  },
+  "options": {},
+  "attributes": {
+    "topTitle": {
+      "type": "string"
+    },
+    "lowerTitle": {
+      "type": "string"
+    },
+    "paragraph": {
+      "type": "string"
+    },
+    "ExplorerButton": {
+      "type": "string"
+    },
+    "RegisterCompanyButton": {
+      "type": "string"
+    }
+  },
+  "config": {}
+}

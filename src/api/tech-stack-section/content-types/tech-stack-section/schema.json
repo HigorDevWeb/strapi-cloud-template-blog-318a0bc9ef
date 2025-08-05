@@ -1,0 +1,45 @@
+{
+  "kind": "singleType",
+  "collectionName": "tech_stack_sections",
+  "info": {
+    "singularName": "tech-stack-section",
+    "pluralName": "tech-stack-sections",
+    "displayName": "techStackSection"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {
+    "i18n": {
+      "localized": true
+    }
+  },
+  "attributes": {
+    "techCard": {
+      "type": "component",
+      "pluginOptions": {
+        "i18n": {
+          "localized": true
+        }
+      },
+      "component": "tech-card.tech-card",
+      "repeatable": true
+    },
+    "paragraphTech": {
+      "type": "string",
+      "pluginOptions": {
+        "i18n": {
+          "localized": true
+        }
+      }
+    },
+    "MainTitle": {
+      "type": "string",
+      "pluginOptions": {
+        "i18n": {
+          "localized": true
+        }
+      }
+    }
+  }
+}

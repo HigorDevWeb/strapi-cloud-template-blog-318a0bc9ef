@@ -1,0 +1,73 @@
+{
+  "kind": "singleType",
+  "collectionName": "job_listing_pages",
+  "info": {
+    "singularName": "job-listing-page",
+    "pluralName": "job-listing-pages",
+    "displayName": "jobListingPage"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {
+    "i18n": {
+      "localized": true
+    }
+  },
+  "attributes": {
+    "featured_title": {
+      "type": "string",
+      "pluginOptions": {
+        "i18n": {
+          "localized": true
+        }
+      }
+    },
+    "featured_subtitle": {
+      "type": "string",
+      "pluginOptions": {
+        "i18n": {
+          "localized": true
+        }
+      }
+    },
+    "filters": {
+      "type": "component",
+      "pluginOptions": {
+        "i18n": {
+          "localized": true
+        }
+      },
+      "component": "job-filter-button.job-filter-button",
+      "repeatable": true
+    },
+    "frontCardJob": {
+      "type": "component",
+      "pluginOptions": {
+        "i18n": {
+          "localized": true
+        }
+      },
+      "component": "job-front-card-info.job-front-card-info",
+      "repeatable": true
+    },
+    "insideCardJob": {
+      "type": "component",
+      "pluginOptions": {
+        "i18n": {
+          "localized": true
+        }
+      },
+      "component": "job-inside-info.job-inside-info",
+      "repeatable": true
+    },
+    "seeAllJobsButton": {
+      "type": "string",
+      "pluginOptions": {
+        "i18n": {
+          "localized": true
+        }
+      }
+    }
+  }
+}

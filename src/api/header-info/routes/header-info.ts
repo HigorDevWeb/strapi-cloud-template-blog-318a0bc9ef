@@ -1,0 +1,7 @@
+/**
+ * header-info router
+ */
+
+import { factories } from '@strapi/strapi';
+
+export default factories.createCoreRouter('api::header-info.header-info');
